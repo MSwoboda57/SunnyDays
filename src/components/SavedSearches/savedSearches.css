@@ -1,0 +1,106 @@
+.searchCards {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+
+}
+
+.savedSearches {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.returnToSearch {
+    width: 150px;
+    height: 50px;
+    border: none;
+    outline: none;
+    background: #2f2f2f;
+    color: #fff;
+    font-size: 22px;
+    border-radius: 40px;
+    text-align: center;
+    box-shadow: 0 6px 20px -5px rgba(0, 0, 0, 0.4);
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    opacity: 900%;
+}
+
+.deleteButton {
+    width: 50px;
+    height: 20px;
+    border: none;
+    outline: none;
+    background: #2f2f2f;
+    color: #fff;
+    font-size: 14px;
+    border-radius: 40px;
+    text-align: center;
+    box-shadow: 0 6px 20px -5px rgba(0, 0, 0, 0.4);
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    opacity: 900%;
+}
+
+.ssDate {
+    padding: 2%;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.ssCity {
+    padding: 2%;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.ssTemp {
+    padding: 2%;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.ssDescription {
+    padding: 2%;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+
+
+.ssDateResult {
+    padding: 2%;
+    font-size: 17px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.ssCityResult {
+    padding: 2%;
+    font-size: 17px;
+    display: flex;
+    justify-content: center;
+}
+
+.ssTempResult {
+    padding: 2%;
+    font-size: 17px;
+    display: flex;
+    justify-content: center;
+}
+
+.ssDescriptionResult {
+    padding: 2%;
+    font-size: 17px;
+    display: flex;
+    justify-content: center;
+}
